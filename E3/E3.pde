@@ -21,4 +21,4 @@ image(a,x,0);
 image(b,x+640,0);
 image(c,x+1280,0);
 image(d,x+1920,0);
-image(a,x,0);
+image(a,x,0); 
